@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Addin>
+	<Header>
+		<Id>Core</Id>
+		<Namespace>Chimera</Namespace>
+		<Version>1.0</Version>
+		<CompatVersion>1.0</CompatVersion>
+		<DefaultEnabled>true</DefaultEnabled>
+		<IsRoot>true</IsRoot>
+		<Name>Chimera Viewer</Name>
+		<Description>An extensible viewer and solver for differential equasions.</Description>
+		<Author>Stefan Apostel</Author>
+		<Url>http://codingcave.de</Url>
+	</Header>
+</Addin>
